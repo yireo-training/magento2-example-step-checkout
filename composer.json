@@ -13,7 +13,7 @@
     }
   ],
   "require": {
-    "magento/framework": "*",
+    "magento/module-sales": "*",
     "php": ">=7.0.0"
   },
   "require-dev":{
