@@ -13,7 +13,8 @@
     }
   ],
   "require": {
-    "magento/module-sales": "*",
+    "magento/module-checkout": "*",
+    "magento/module-store": "*",
     "php": ">=7.0.0"
   },
   "require-dev":{
